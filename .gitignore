@@ -1,0 +1,8 @@
+config.yaml
+*.Rhistory
+data/*
+figure/*
+*.wig
+*.bigWig
+*.bedGraph
+

@@ -1,0 +1,24 @@
+gtf: /home/xfu/Gmatic6/gene/hg38_v26/gencode_hg38_v26.gtf
+
+sqlite: data/gencode_hg38_v26_txdb.sqlite
+
+GRanges: data/gencode_hg38_v26_GRanges.RData
+
+bedgraph:
+  - Expt.crosslink.all.wig.clean.wig.bedGraph
+
+name:
+  - cDNA Count
+
+chrom:
+  - chr10
+
+starts:
+  - 111890000
+
+ends:
+  - 111894000
+
+tracks:
+  - figure/Expt.crosslink.all.tracks.pdf
+
